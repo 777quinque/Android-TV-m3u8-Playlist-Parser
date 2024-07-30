@@ -1,4 +1,4 @@
-**This is an Android TV app - Playlist with channels, movies and series**
+This is an Android TV app - Playlist with channels, movies and series
 
 **What this app does:**
 - Parses m3u8 playlist of 100,000 links. These links consist of preview, title and m3u8 streams
