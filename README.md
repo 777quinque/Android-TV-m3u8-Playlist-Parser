@@ -1,8 +1,8 @@
 This is an Android TV app - Playlist with channels, movies and series
+
 What this app does:
 - Parses m3u8 playlist of 100,000 links. These links consist of preview, title and m3u8 streams
-- Login application via pin codes
-  
+
 ExoPlayer is used to play videos. It can include mp4, m3u and m3u8 videos with high bitrate
 
 ![Screenshot_20240730_200915](https://github.com/user-attachments/assets/7b7a5c39-8706-4c32-a400-1ed132c6ba1e)
